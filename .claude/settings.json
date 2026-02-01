@@ -1,0 +1,12 @@
+{
+  "_comment": "Claude Code settings template. Copy to settings.local.json and customize.",
+  "permissions": {
+    "allow": [
+      "Bash(pyenv versions:*)",
+      "Bash(uv --version:*)",
+      "Bash(uv venv:*)",
+      "Bash(uv pip install:*)",
+      "Bash(*/ComfyUI/.venv/bin/python:*)"
+    ]
+  }
+}

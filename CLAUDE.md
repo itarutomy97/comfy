@@ -2,7 +2,7 @@
 
 ## Environment
 
-- **Location**: `/Users/itarutomy/Documents/GitHub/oss/Comfy/ComfyUI`
+- **Location**: `/Users/itarutomy/Documents/GitHub/oss/comfy/ComfyUI`
 - **Python**: 3.12.12 (arm64, managed by uv)
 - **PyTorch**: nightly (MPS enabled for Apple Silicon)
 - **venv**: `.venv/` (created with `uv venv`)
@@ -10,7 +10,7 @@
 ## Quick Start
 
 ```bash
-cd /Users/itarutomy/Documents/GitHub/oss/Comfy/ComfyUI
+cd /Users/itarutomy/Documents/GitHub/oss/comfy/ComfyUI
 source .venv/bin/activate
 python main.py
 ```
@@ -20,7 +20,7 @@ Open http://127.0.0.1:8188 in browser.
 ## Python Execution (without activating venv)
 
 ```bash
-/Users/itarutomy/Documents/GitHub/oss/Comfy/ComfyUI/.venv/bin/python main.py
+/Users/itarutomy/Documents/GitHub/oss/comfy/ComfyUI/.venv/bin/python main.py
 ```
 
 ## Installing Packages
